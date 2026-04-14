@@ -7,8 +7,11 @@
 
 ---
 
+### 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=MSXYZ-GenAI&theme=radical&no-frame=true&margin-w=15)
+
 ### 📊 GitHub Stats:
-![MSXYZ-GenAI's GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=MSXYZ-GenAI&show_icons=true&theme=radical&rank_icon=github)
+![MSXYZ-GenAI's GitHub Stats](https://github-readme-stats-re-tau.vercel.app/api?username=MSXYZ-GenAI&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak:
 ![MSXYZ-GenAI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSXYZ-GenAI&theme=radical)
