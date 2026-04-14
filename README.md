@@ -6,15 +6,3 @@
 </p>
 
 ---
-
-### 📈 Activity Graph:
-# Bu servis çok stabildir ve hata vermez. Senin kod yazma grafiğini gösterir.
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MSXYZ-GenAI&theme=github-compact)
-
-### 🔥 GitHub Streak:
-# Bu sende zaten çalışıyordu, koruyoruz.
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSXYZ-GenAI&theme=radical)
-
-### 📊 Most Used Languages:
-# Farklı bir sunucu üzerinden dillerini çekiyoruz.
-![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=MSXYZ-GenAI&layout=compact&theme=radical)
