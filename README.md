@@ -8,4 +8,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![MSXYZ-GenAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSXYZ-GenAI&show_icons=true&theme=radical)
+![MSXYZ-GenAI's GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=MSXYZ-GenAI&show_icons=true&theme=radical&rank_icon=github)
+
+### 🔥 GitHub Streak:
+![MSXYZ-GenAI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSXYZ-GenAI&theme=radical)
