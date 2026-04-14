@@ -7,11 +7,14 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=MSXYZ-GenAI&theme=radical&no-frame=true&margin-w=15)
-
-### 📊 GitHub Metrics:
-![Metrics](https://metrics.lecoq.io/MSXYZ-GenAI?template=classic&base.activity=1&base.community=1&base.repositories=1&config.timezone=Europe%2FIstanbul)
+### 📈 Activity Graph:
+# Bu servis çok stabildir ve hata vermez. Senin kod yazma grafiğini gösterir.
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MSXYZ-GenAI&theme=github-compact)
 
 ### 🔥 GitHub Streak:
+# Bu sende zaten çalışıyordu, koruyoruz.
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSXYZ-GenAI&theme=radical)
+
+### 📊 Most Used Languages:
+# Farklı bir sunucu üzerinden dillerini çekiyoruz.
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=MSXYZ-GenAI&layout=compact&theme=radical)
