@@ -10,11 +10,8 @@
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=MSXYZ-GenAI&theme=radical&no-frame=true&margin-w=15)
 
-### 📊 GitHub Stats:
-![MSXYZ-GenAI's GitHub Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MSXYZ-GenAI&show_icons=true&theme=radical)
-
-### 🐍 Top Languages:
-![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MSXYZ-GenAI&layout=compact&theme=radical)
+### 📊 GitHub Metrics:
+![Metrics](https://metrics.lecoq.io/MSXYZ-GenAI?template=classic&base.activity=1&base.community=1&base.repositories=1&config.timezone=Europe%2FIstanbul)
 
 ### 🔥 GitHub Streak:
-![MSXYZ-GenAI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSXYZ-GenAI&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MSXYZ-GenAI&theme=radical)
