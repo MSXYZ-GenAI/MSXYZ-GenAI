@@ -8,4 +8,4 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[MSXYZ-GenAI]&show_icons=true&theme=radical)
+![MSXYZ-GenAI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSXYZ-GenAI&show_icons=true&theme=radical)
