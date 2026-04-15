@@ -10,5 +10,5 @@
 ---
 
 ## 🚀 Featured Project
-### [Video Anti-Aliasing Pack (TAA + DLAA-inspired)](https://github.com/MSXYZ-GenAI/comfyui-msxyz)
+### [ComfyUI Video Anti-Aliasing Pack](https://github.com/MSXYZ-GenAI/comfyui-msxyz)
 *for crystal clear AI videos in ComfyUI.*
