@@ -8,7 +8,7 @@
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
 [![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
 [![COMPUTER VISION](https://img.shields.io/badge/COMPUTER_VISION-5C5C5C?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![REAL-TIME GRAPHICS](https://img.shields.io/badge/REAL--TIME%20GRAPHICS-6F42C1?style=for-the-badge&logo=vulkan&logoColor=white)](https://www.khronos.org/vulkan/)
+[![REAL-TIME GFX](https://img.shields.io/badge/REAL--TIME%20GFX-6F42C1?style=for-the-badge&logo=vulkan&logoColor=white)](https://www.khronos.org/vulkan/)
 
 ---
 
