@@ -7,7 +7,6 @@
 [![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/)
 [![CUDA](https://img.shields.io/badge/CUDA-000000?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-zone)
-[![COMPUTER VISION](https://img.shields.io/badge/COMPUTER_VISION-5C5C5C?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ---
 
